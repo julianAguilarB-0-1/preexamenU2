@@ -43,11 +43,11 @@ function promedioPresion() {
                 resultado.textContent = `${promedio.toFixed(2)}`;
             }
             if (promedio < 120) {
-                nivel.textContent = "Presión arterial normal";
+                nivel.textContent = "Estado: Presión arterial normal";
             } else if (promedio >= 120 && promedio <= 129) {
-                nivel.textContent = "Presión arterial elevada";
+                nivel.textContent = "Estado: Presión arterial elevada";
             } else if (promedio >= 130) {
-                nivel.textContent = "Presión arterial alta";
+                nivel.textContent = "Estado: Presión arterial alta";
             }
 
 

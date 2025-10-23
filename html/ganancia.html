@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cálculo de Ganancias</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Inicio</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Calculo de Ganancias</h2>
+        <label for="NumeroProducto">Número de Producto</label>
+        <input type="number" name="numeroproducto" id="NumeroProducto" placeholder="12345">
+        <br>
+        <label for="NombreProducto">Nombre del Productos</label>
+        <input type="text" name="nombreproducto" id="NombreProducto">
+        <br>
+        <label for="PrecioV">Precio Venta</label>
+        <input type="number" name="preciov" id="PrecioV" placeholder="000.00">
+        <br>
+        <label for="PrecioC">Precio Compra</label>
+        <input type="number" name="precioc" id="PrecioC" placeholder="000.00">
+        <br>
+        <label for="Cantidad">Cantidad</label>
+        <input type="number" name="cantidad" id="Cantidad" placeholder="000.00">
+        <br>
+        <label for="UnidadMedida">Unidad de Medida</label>
+        <select name="Unidad Medida" id="unidadmedida">
+            <option value="Piezas">Piezas</option>
+            <option value="Litros">Litros</option>
+            <option value="Kilogramos">Kilogramos</option>
+        </select>
+        <br>
+        <label for="TotalCompra">Total Compra</label>
+        <input type="number" name="totalcompra" id="TotalCompra" placeholder="000.00">
+        <br>
+        <label for="TotalVenta">Total Venta</label>
+        <input type="number" name="totalventa" id="TotalVenta" placeholder="000.00">
+        <br>
+        <label for="Ganancia">Ganancia</label>
+        <input type="number" name="ganancia" id="Ganancia" placeholder="000.00">
+        <br>
+        <!--aqui va el boton de submit-->
+        <button id="calcular">Calcular</button>
+        <!--aqui va el boton de reset-->
+    </section>
+
+</body>
+
+</html>
