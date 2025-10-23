@@ -13,10 +13,20 @@
     {"nombre": "Pepe Toño Macías","dia": 12,"presion_arteria": 127},
     {"nombre": "Pepe Toño Macías","dia": 13,"presion_arteria": 136},
     {"nombre": "Pepe Toño Macías","dia": 14,"presion_arteria": 119},
-    {"nombre": "Pepe Toño Macías", "dia": 15,"presion_arteria": 138},
+    {"nombre": "Pepe Toño Macías","dia": 15,"presion_arteria": 138},
     {"nombre": "Pepe Toño Macías","dia": 16,"presion_arteria": 122},
     {"nombre": "Pepe Toño Macías","dia": 17,"presion_arteria": 129},
     {"nombre": "Pepe Toño Macías","dia": 18,"presion_arteria": 117},
     {"nombre": "Pepe Toño Macías","dia": 19,"presion_arteria": 135},
-    {"nombre": "Pepe Toño Macías","dia": 20,"presion_arteria": 114}
+    {"nombre": "Pepe Toño Macías","dia": 20,"presion_arteria": 114},
+    {"nombre": "Pepe Toño Macías","dia": 21,"presion_arteria": 134},
+    {"nombre": "Pepe Toño Macías","dia": 22, "presion_arteria": 116},
+    {"nombre": "Pepe Toño Macías","dia": 23,"presion_arteria": 127},
+    {"nombre": "Pepe Toño Macías","dia": 24,"presion_arteria": 136},
+    {"nombre": "Pepe Toño Macías","dia": 25,"presion_arteria": 119},
+    {"nombre": "Pepe Toño Macías","dia": 26,"presion_arteria": 138},
+    {"nombre": "Pepe Toño Macías","dia": 27,"presion_arteria": 122},
+    {"nombre": "Pepe Toño Macías","dia": 28,"presion_arteria": 129},
+    {"nombre": "Pepe Toño Macías","dia": 29,"presion_arteria": 117},
+    {"nombre": "Pepe Toño Macías","dia": 30,"presion_arteria": 135}
 ]

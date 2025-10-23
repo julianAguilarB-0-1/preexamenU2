@@ -1,0 +1,47 @@
+body{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    text-align: center;
+}
+
+table{
+
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+}
+
+th, td{
+
+    border: 1px solid #cbffd6;
+    padding: 8px;
+    text-align: center;
+}
+
+th{
+
+    background-color: #5dbd62;
+}
+
+li{
+
+    display: inline;
+    text-align: center;
+}
+
+li a{
+
+    text-decoration: none;
+}
+
+#resultado{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#nivel{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -16,7 +16,7 @@ function calcular() {
 
 
 function limpiar() {
-    resultado.textContent = " Te la creiste w"
+    resultado.textContent = ""
 }
 
 //eventos 
