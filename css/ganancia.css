@@ -1,0 +1,89 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    width: 100%;
+    background-color: #0058a0;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+img {
+    position:absolute;
+    left: 90px;
+    height: 200px;
+
+}
+
+section {
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #0044a5;
+    width: 450px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+select {
+    padding: 8px;
+    border: 1px solid #ccccccd0;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: #0044a5;
+}
+
+button:hover{
+    background-color: #01285f;
+}
+
+#mostrar {
+        margin-top: 15px;
+        padding: 10px;
+        background-color: darkgrey;
+        border-radius: 5px;
+    }
